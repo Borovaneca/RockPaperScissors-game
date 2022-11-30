@@ -1,6 +1,8 @@
 import java.util.Random;
 import java.util.Scanner;
 
+//Code maded by Petyo Veselinov and Sivo Penev
+
 public class Igra {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
