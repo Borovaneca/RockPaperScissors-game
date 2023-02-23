@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 
 // Code maded by Petyo Veselinov, Sivo Penev and Vasil Ralev
+// Don`t blame, it`s just a basics game.
 public class Igra {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
