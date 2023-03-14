@@ -4,4 +4,4 @@ Simple game maded in Bulgarian language, keep that in mind!
 
 You can try the console game trough here -> https://replit.com/@Borovaneca/RockPaperScissorsInBulgarian 
 
-Good luck!
+Good luck! I hope you like it.
